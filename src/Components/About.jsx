@@ -16,26 +16,26 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/wood.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "brown and blue abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello, I'm Zubair Ahmed and I'm passionate about technology and data science. I'm currently a part of the core team at Google Developer Student Clubs (DSC), where I'm actively involved in fostering tech innovation and community building. As a Global Campus Student at GitHub, I've had the opportunity to collaborate on exciting projects and expand my knowledge in the world of open-source development..";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Web developer",
+  "html css javascript",
+  "python developer",
+  "data science",
+  "Microsoft azure",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Proficient in technologies like Microsoft Azure and Python, I enjoy tackling complex problems and turning data into actionable insights. Additionally, my experience with WordPress and my background in Computer Science from Sindh Madras-tul-islam Karachi have equipped me with a diverse skill set I'm excited to connect with like-minded professionals, collaborate on exciting projects, and continue my journey in the world of technology and data science. Let's connect and explore opportunities to make a positive impact together.";
 
 const About = () => {
   return (

@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/zubair.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "my picture in a blue shirt";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "my linkedin profile🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "my linkedin profile let connect with me .",
+    url: "https://www.linkedin.com/in/zubair-ahmed-11722a221",
   },
   {
-    title: "Web Development for Beginners",
+    title: "my github account",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "my github account let contribute with github.",
+    url: "https://github.com/zubairhanif390",
   },
   {
-    title: "My Resume Site",
+    title: "my instagaram account",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "my instagaram account lets follow each other to see future event and opportinty.",
+    url: "https://instagaram.com/zubair_ahmed_003",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "my facebook account",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "make friend in facebook.",
+    url: "https://www.facebook.com/zubair ahmed",
   },
 ];
 
